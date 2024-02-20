@@ -17,7 +17,7 @@ Este repositorio ha sido creado para la tarea número 12. Aquí se encuentran lo
 
 1. **Modificaciones en la Rama:**
    
-   - Se han realizado modificaciones en la rama `joel`.
+   - Se han realizado modificaciones en la rama `joel-rodriguez`.
    - Estas modificaciones están relacionadas con la tarea asignada.
    - Se ha agregado la etiqueta `<p>` al archivo `index.html` con texto que describe qué es GitHub.
 
@@ -25,3 +25,4 @@ Este repositorio ha sido creado para la tarea número 12. Aquí se encuentran lo
    
    - Se ha realizado al menos 1 commit en la rama `joel`.
    - El commit se realizó después de agregar la etiqueta `<p>` al archivo `index.html`.
+   
